@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/dev":{"create":true,"guestpath":"/home/vagrant/dev","hostpath":"/home/mathias/dev/environments/angularjs_nodejs_yeoman/dev","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mathias/dev/environments/angularjs_nodejs_yeoman","disabled":false}}}
